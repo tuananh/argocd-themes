@@ -1,0 +1,67 @@
+.sidebar:not(.theme-dark *) {
+    background: #AD343E !important
+}
+
+.nav-bar {
+    background: #AD343E !important
+}
+
+.page__content-wrapper:not(.theme-dark *) {
+    background: #DDE6EA !important
+}
+
+.sliding-panel__header:not(.theme-dark *) {
+    background: #DDE6EA !important
+}
+
+.sliding-panel__body:not(.theme-dark *) {
+    background: #DDE6EA !important
+}
+
+.argo-button--base:not(.theme-dark *) {
+    color: #f8fbfb !important;
+    background: #F2AF29 !important
+}
+
+.argo-button--base:not(.theme-dark *):hover {
+    opacity: 0.8 !important
+}
+
+.argo-button--base:not(.theme-dark *):focus {
+    border-color: #f8fbfb !important
+}
+
+.argo-button--base-o:not(.theme-dark *) {
+    color: #F2AF29 !important;
+    box-shadow: inset 0 0 0 1px #F2AF29 !important
+}
+
+.argo-button--base-o:not(.theme-dark *):hover {
+    color: #fff !important;
+    background-color: #F2AF29 !important
+}
+
+.argo-button--base-o:not(.theme-dark *):focus {
+    color: #fff !important;
+    background-color: #F2AF29 !important
+}
+
+.top-bar__title:not(.theme-dark *) {
+    color: #F2AF29 !important
+}
+
+a:not(.theme-dark *) {
+    color: #F2AF29 !important
+}
+
+.settings-overview__redirect-panel__title:not(.theme-dark *) {
+    color: #F2AF29 !important
+}
+
+.selected:not(.theme-dark *) {
+    color: #F2AF29 !important
+}
+
+.tabs__indicator:not(.theme-dark *) {
+    background: #F2AF29 !important
+}

@@ -1,0 +1,67 @@
+.sidebar:not(.theme-dark *) {
+    background: #32201b !important
+}
+
+.nav-bar {
+    background: #32201b !important
+}
+
+.page__content-wrapper:not(.theme-dark *) {
+    background: #f0ece8 !important
+}
+
+.sliding-panel__header:not(.theme-dark *) {
+    background: #f0ece8 !important
+}
+
+.sliding-panel__body:not(.theme-dark *) {
+    background: #f0ece8 !important
+}
+
+.argo-button--base:not(.theme-dark *) {
+    color: #FFFFFF !important;
+    background: #7d7370 !important
+}
+
+.argo-button--base:not(.theme-dark *):hover {
+    opacity: 0.8 !important
+}
+
+.argo-button--base:not(.theme-dark *):focus {
+    border-color: #FFFFFF !important
+}
+
+.argo-button--base-o:not(.theme-dark *) {
+    color: #7d7370 !important;
+    box-shadow: inset 0 0 0 1px #7d7370 !important
+}
+
+.argo-button--base-o:not(.theme-dark *):hover {
+    color: #fff !important;
+    background-color: #7d7370 !important
+}
+
+.argo-button--base-o:not(.theme-dark *):focus {
+    color: #fff !important;
+    background-color: #7d7370 !important
+}
+
+.top-bar__title:not(.theme-dark *) {
+    color: #01894d !important
+}
+
+a:not(.theme-dark *) {
+    color: #01894d !important
+}
+
+.settings-overview__redirect-panel__title:not(.theme-dark *) {
+    color: #01894d !important
+}
+
+.selected:not(.theme-dark *) {
+    color: #01894d !important
+}
+
+.tabs__indicator:not(.theme-dark *) {
+    background: #01894d !important
+}
